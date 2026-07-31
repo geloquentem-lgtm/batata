@@ -1,0 +1,25 @@
+{
+  "name": "batata",
+  "version": "0.0.1",
+  "description": "",
+  "homepage": "https://github.com/geloquentem-lgtm/batata#readme",
+  "bugs": {
+    "url": "https://github.com/geloquentem-lgtm/batata/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geloquentem-lgtm/batata.git"
+  },
+  "license": "ISC",
+  "author": "Matheus",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
